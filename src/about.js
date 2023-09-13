@@ -5,7 +5,7 @@ const about = () => {
   return (
     <>
       <div className="banner-image-about">
-        <div className="about-nike">
+          <div className="about-nike">
           <h2 className="about-nike-text">OUR MISSION</h2>
           <p>
             "TO BECOME A ONE STOP SOLUTION FOR EVERYTHING THAT A HUMAN NEED "

@@ -1,6 +1,5 @@
-.banner-image-about {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-      url("C:\Users\ASUS\Desktop\e-commerce\public\img\about.jpg");
+/* .banner-image-about  {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -8,12 +7,12 @@
     border-radius: 20px;
     box-shadow: 10px 10px 10px gray;
     margin: 1rem;
-  }
+  } */
   
   .about-nike {
     margin-right: 60%;
     padding: 20px;
-    padding-top: 230px;
+    padding-top: 23px;
   }
   
   .about-nike-text {
@@ -28,12 +27,12 @@
     font-family: "Rowdies", cursive;
     font-size: 22px;
     color: black;
-    text-shadow: 1px 1px 1px rgb(27, 77, 124);
+    /* text-shadow: 1px 1px 1px rgb(27, 77, 124); */
   }
   
   .about-nike-part {
-    margin: 40px;
-    padding: 40px;
+    margin: 5px;
+    padding: 4px;
   }
   
   .about-nike-heading {
