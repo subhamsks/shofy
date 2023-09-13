@@ -1,0 +1,62 @@
+.banner-image-about {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url("C:\Users\ASUS\Desktop\e-commerce\public\img\about.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+    margin: 1rem;
+  }
+  
+  .about-nike {
+    margin-right: 60%;
+    padding: 20px;
+    padding-top: 230px;
+  }
+  
+  .about-nike-text {
+    font-size: 25px;
+    color: black;
+    font-family: "Rowdies", cursive;
+    text-shadow: 4px 4px 1px #1e80d4;
+  }
+  
+  .about-nike > p {
+    margin: 20px;
+    font-family: "Rowdies", cursive;
+    font-size: 22px;
+    color: black;
+    text-shadow: 1px 1px 1px rgb(27, 77, 124);
+  }
+  
+  .about-nike-part {
+    margin: 40px;
+    padding: 40px;
+  }
+  
+  .about-nike-heading {
+    font-family: "Rowdies", cursive;
+    margin: 20px;
+    font-size: 40px;
+    text-shadow: 4px 2px 1px black;
+    color: #5fa5ff;
+    font-variant: small-caps;
+  }
+  
+  .about-nike-para {
+    font-family: "Rowdies", cursive;
+    padding: 0px;
+    text-shadow: 1px 1px 1px gray;
+    justify-content: center;
+    font-size: 25px;
+  }
+  .about-nike-para-1{
+    font-family: "Rowdies", cursive;
+    padding: 0px;
+    text-shadow: 1px 1px 1px gray;
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 23px;
+  }
